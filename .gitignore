@@ -1,4 +1,14 @@
-*.csv
-*.tsv
-*.xls
-*.xlsx
+# Ambiente virtual
+.venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sistema
+.DS_Store
+Thumbs.db
